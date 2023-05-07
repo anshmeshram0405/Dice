@@ -1,0 +1,31 @@
+*{
+    background-color: rgb(74, 82, 91);
+    text-align: center;
+    
+    /* width:70%;
+    margin: auto; */
+}
+h1{
+    color: #4ECCA3;
+    font-size: 100px;
+    font-family: lobster,cursive;
+}
+p{
+    color: #4ECCA3;
+    font-family: 'indie flower',cursive;
+    font-size:50px;
+}
+.dice{
+    margin-inline: 5%;
+    display: inline-block;
+}
+img{
+    size: 80%;
+}
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
